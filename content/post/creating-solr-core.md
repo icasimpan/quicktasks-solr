@@ -1,6 +1,7 @@
 ---
 title: "Creating Solr Core"
 date: 2019-09-25T00:20:25+08:00
+tags: [solr]
 draft: false
 ---
 

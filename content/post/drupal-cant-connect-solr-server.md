@@ -1,6 +1,7 @@
 ---
 title: "Drupal Can't Connect to Local Solr Server"
 date: 2020-02-21T00:20:25+08:00
+tags: [solr]
 draft: false
 ---
 
