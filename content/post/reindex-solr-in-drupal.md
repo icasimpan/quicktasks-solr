@@ -1,7 +1,7 @@
 ---
 title: "Reindex Solr in Drupal"
 date: 2019-09-25T00:20:25+08:00
-tags: [solr]
+tags: [solr, solr-reindex, reindex, drupal]
 draft: false
 ---
 
