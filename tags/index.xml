@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Solr | IT Quicktasks</title>
+    <link>https://ismael.casimpan.com/quicktasks-solr/tags/</link>
+    <description>Recent content in Tags on Solr | IT Quicktasks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Feb 2020 00:20:25 +0800</lastBuildDate>
+    
+	<atom:link href="https://ismael.casimpan.com/quicktasks-solr/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>drupal</title>
+      <link>https://ismael.casimpan.com/quicktasks-solr/tags/drupal/</link>
+      <pubDate>Fri, 21 Feb 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-solr/tags/drupal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>drupal-solr</title>
+      <link>https://ismael.casimpan.com/quicktasks-solr/tags/drupal-solr/</link>
+      <pubDate>Fri, 21 Feb 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-solr/tags/drupal-solr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>solr</title>
+      <link>https://ismael.casimpan.com/quicktasks-solr/tags/solr/</link>
+      <pubDate>Fri, 21 Feb 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-solr/tags/solr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>create</title>
+      <link>https://ismael.casimpan.com/quicktasks-solr/tags/create/</link>
+      <pubDate>Wed, 25 Sep 2019 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-solr/tags/create/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reindex</title>
+      <link>https://ismael.casimpan.com/quicktasks-solr/tags/reindex/</link>
+      <pubDate>Wed, 25 Sep 2019 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-solr/tags/reindex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>solr-core</title>
+      <link>https://ismael.casimpan.com/quicktasks-solr/tags/solr-core/</link>
+      <pubDate>Wed, 25 Sep 2019 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-solr/tags/solr-core/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>solr-reindex</title>
+      <link>https://ismael.casimpan.com/quicktasks-solr/tags/solr-reindex/</link>
+      <pubDate>Wed, 25 Sep 2019 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-solr/tags/solr-reindex/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
