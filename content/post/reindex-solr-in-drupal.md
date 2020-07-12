@@ -11,4 +11,4 @@ Config > Search and Metadata > Search API
 
 Click on the index name (e.g. Events)
 
-![search api](/static/images/reindex-solr-drupal/01_search-api.png)
+![search api](/reindex-solr-drupal/01_search-api.png)
